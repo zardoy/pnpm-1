@@ -2,11 +2,9 @@ lockfileVersion: 5.3
 
 specifiers:
   '@zardoy/pnpm-fails': '*'
-  lodash: '*'
 
 dependencies:
   '@zardoy/pnpm-fails': 0.0.1
-  lodash: 4.17.21
 
 packages:
 

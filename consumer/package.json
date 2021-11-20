@@ -5,7 +5,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "lodash": "*",
     "@zardoy/pnpm-fails": "*"
   }
 }
