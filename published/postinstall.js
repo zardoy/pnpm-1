@@ -1,1 +1,1 @@
-require('quicktype-core')
+// require('quicktype-core')

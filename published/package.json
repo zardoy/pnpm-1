@@ -13,6 +13,6 @@
   "scripts": {
     "_postinstall": "node postinstall.js",
     "prepublishOnly": "pinst --enable",
-    "postpublish": "pinst --disable"
+    "postpack": "pinst --disable"
   }
 }
